@@ -12,3 +12,4 @@ C:\Users\Mel\Desktop\Magnit\operator\obj\Debug\net9.0\refint\operator.dll
 C:\Users\Mel\Desktop\Magnit\operator\obj\Debug\net9.0\operator.pdb
 C:\Users\Mel\Desktop\Magnit\operator\obj\Debug\net9.0\operator.genruntimeconfig.cache
 C:\Users\Mel\Desktop\Magnit\operator\obj\Debug\net9.0\ref\operator.dll
+C:\Users\Mel\Desktop\Magnit\operator\obj\Debug\net9.0\operator.sourcelink.json

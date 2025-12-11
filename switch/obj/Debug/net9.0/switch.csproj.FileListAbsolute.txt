@@ -12,3 +12,4 @@ C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\refint\switch.dll
 C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.pdb
 C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.genruntimeconfig.cache
 C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\ref\switch.dll
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.sourcelink.json

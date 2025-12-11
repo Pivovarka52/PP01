@@ -12,3 +12,4 @@ C:\Users\Mel\Desktop\Magnit\stack\obj\Debug\net9.0\refint\stack.dll
 C:\Users\Mel\Desktop\Magnit\stack\obj\Debug\net9.0\stack.pdb
 C:\Users\Mel\Desktop\Magnit\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
 C:\Users\Mel\Desktop\Magnit\stack\obj\Debug\net9.0\ref\stack.dll
+C:\Users\Mel\Desktop\Magnit\stack\obj\Debug\net9.0\stack.sourcelink.json

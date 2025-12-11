@@ -12,3 +12,4 @@ C:\Users\Mel\Desktop\Magnit\array\obj\Debug\net9.0\refint\array.dll
 C:\Users\Mel\Desktop\Magnit\array\obj\Debug\net9.0\array.pdb
 C:\Users\Mel\Desktop\Magnit\array\obj\Debug\net9.0\array.genruntimeconfig.cache
 C:\Users\Mel\Desktop\Magnit\array\obj\Debug\net9.0\ref\array.dll
+C:\Users\Mel\Desktop\Magnit\array\obj\Debug\net9.0\array.sourcelink.json

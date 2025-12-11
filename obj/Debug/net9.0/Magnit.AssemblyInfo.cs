@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede35a0af1d0fc6af3bc882f75b3d6f45fbabd7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f26640e727ed69d026570afda68f1f127318105")]
 [assembly: System.Reflection.AssemblyProductAttribute("Magnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

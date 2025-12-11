@@ -12,3 +12,4 @@ C:\Users\Mel\Desktop\Magnit\foreach\obj\Debug\net9.0\refint\foreach.dll
 C:\Users\Mel\Desktop\Magnit\foreach\obj\Debug\net9.0\foreach.pdb
 C:\Users\Mel\Desktop\Magnit\foreach\obj\Debug\net9.0\foreach.genruntimeconfig.cache
 C:\Users\Mel\Desktop\Magnit\foreach\obj\Debug\net9.0\ref\foreach.dll
+C:\Users\Mel\Desktop\Magnit\foreach\obj\Debug\net9.0\foreach.sourcelink.json
