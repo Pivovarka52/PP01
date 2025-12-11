@@ -49,7 +49,7 @@ class Program_3_5
 }
 ```
 
-#Код FOREACH.cs
+# Код FOREACH.cs
 ```C#
 using System;
 using System.Collections.Generic;
@@ -214,7 +214,7 @@ class Program_3_6
 }
 ```
 
-#Код switch.cs
+# Код switch.cs
 ```C#
 using System;
 
