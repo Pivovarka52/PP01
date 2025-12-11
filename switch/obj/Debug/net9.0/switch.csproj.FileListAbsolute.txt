@@ -1,0 +1,14 @@
+C:\Users\Mel\Desktop\Magnit\switch\bin\Debug\net9.0\switch.exe
+C:\Users\Mel\Desktop\Magnit\switch\bin\Debug\net9.0\switch.deps.json
+C:\Users\Mel\Desktop\Magnit\switch\bin\Debug\net9.0\switch.runtimeconfig.json
+C:\Users\Mel\Desktop\Magnit\switch\bin\Debug\net9.0\switch.dll
+C:\Users\Mel\Desktop\Magnit\switch\bin\Debug\net9.0\switch.pdb
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.AssemblyInfoInputs.cache
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.AssemblyInfo.cs
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.dll
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\refint\switch.dll
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.pdb
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\switch.genruntimeconfig.cache
+C:\Users\Mel\Desktop\Magnit\switch\obj\Debug\net9.0\ref\switch.dll

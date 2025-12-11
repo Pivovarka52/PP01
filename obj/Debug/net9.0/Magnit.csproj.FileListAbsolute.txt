@@ -1,0 +1,14 @@
+c:\Users\Mel\Desktop\Magnit\bin\Debug\net9.0\Magnit.exe
+C:\Users\Mel\Desktop\Magnit\bin\Debug\net9.0\Magnit.deps.json
+C:\Users\Mel\Desktop\Magnit\bin\Debug\net9.0\Magnit.runtimeconfig.json
+c:\Users\Mel\Desktop\Magnit\bin\Debug\net9.0\Magnit.dll
+c:\Users\Mel\Desktop\Magnit\bin\Debug\net9.0\Magnit.pdb
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.AssemblyInfoInputs.cache
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.AssemblyInfo.cs
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.csproj.CoreCompileInputs.cache
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.dll
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\refint\Magnit.dll
+c:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.pdb
+C:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\Magnit.genruntimeconfig.cache
+C:\Users\Mel\Desktop\Magnit\obj\Debug\net9.0\ref\Magnit.dll
