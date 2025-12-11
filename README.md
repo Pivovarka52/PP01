@@ -1,6 +1,6 @@
-##Отчёт по ПП.01 «Разработка модулей программного обеспечения компьютерных систем».
-##Выполнена Студентом Мельниковым Егором.
-#  Код array.cs
+## Отчёт по ПП.01 «Разработка модулей программного обеспечения компьютерных систем».
+# Выполнена Студентом Мельниковым Егором.
+# Код array.cs
 ```C#
 using System;
 
@@ -49,7 +49,7 @@ class Program_3_5
 }
 ```
 
-#Код FOREACH.cs
+# Код FOREACH.cs
 ```C#
 using System;
 using System.Collections.Generic;
@@ -214,7 +214,7 @@ class Program_3_6
 }
 ```
 
-#Код switch.cs
+# Код switch.cs
 ```C#
 using System;
 
@@ -246,9 +246,12 @@ class program
     }
 }
 ```
+
 <img src="..\img\1.png" 
 <img src="..\img\2.png" 
 <img src="..\img\3.png" 
 <img src="..\img\4.png" 
 <img src="..\img\5.png" 
 <img src="..\img\6.png" 
+
+
