@@ -246,4 +246,4 @@ class program
     }
 }
 ```
-<img src="C:\Users\Mel\Desktop\Magnit\img\1.png" 
+<img src="..\img\1.png" 
